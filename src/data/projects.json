@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Høyvika",
+    "tech_stack": [
+      "vite",
+
+      "react",
+
+      "axios",
+
+      "tanstack query",
+
+      "tanstack router",
+
+      "shadcn",
+
+      "tailwindcss",
+
+      "react hook form",
+
+      "zod"
+    ],
+    "image": "images/hoyvika.png",
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint aliquam repellendus ducimus labore mollitia unde incidunt ad fuga porro voluptatum, quaerat quibusdam necessitatibus, similique, assumenda earum nam nisi suscipit quae?",
+    "url": "https://hoyvika.no"
+  }
+]
