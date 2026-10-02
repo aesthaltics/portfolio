@@ -1,5 +1,4 @@
 export { cn } from "cn"
-import axios from "redaxios"
 
 import { parse } from "node-html-parser"
 
