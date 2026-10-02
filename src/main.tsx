@@ -5,13 +5,7 @@ import "./index.css"
 import { ThemeProvider } from "@/components/theme-provider.tsx"
 // Import the generated route tree
 import { routeTree } from "./routeTree.gen"
-import {
-  useQuery,
-  useMutation,
-  useQueryClient,
-  QueryClient,
-  QueryClientProvider,
-} from "@tanstack/react-query"
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query"
 
 // Create a new router instance
 const router = createRouter({ routeTree, basepath: "/portfolio/" })

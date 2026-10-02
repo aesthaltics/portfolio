@@ -1,9 +1,8 @@
 import { createFileRoute } from "@tanstack/react-router"
 import { Button } from "@/components/ui/button"
-import { getOpenGraphData } from "@/lib/utils"
-import { Suspense, use } from "react"
-import { useQuery } from "@tanstack/react-query"
-import axios from "redaxios"
+
+import { Suspense } from "react"
+
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools"
 
 export const Route = createFileRoute("/")({
